@@ -2,6 +2,9 @@
 /.vs/
 /Debug/
 /x64/
+/LearnLeetcode/Debug/
+/LearnLeetcode/x64/
 *.sln
 *.vcxproj
-*.vcxproj.filters
+*.filters
+*.user

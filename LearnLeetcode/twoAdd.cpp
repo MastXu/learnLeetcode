@@ -1,5 +1,4 @@
 //两数相加
-#include"stdafx.h"
 #include<iostream>
 #include<vector>
 #include<list>

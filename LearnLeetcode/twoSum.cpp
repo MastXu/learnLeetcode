@@ -1,5 +1,4 @@
 //两数之和
-#include"stdafx.h"
 #include<iostream>
 #include<vector>
 #include<unordered_map>
@@ -16,7 +15,7 @@ public:
 		}
 		vector<int> res;
 		res.reserve(2);
-		for(int i = 0;i<nums.size();i++)
+		for(int i = 0;i < nums.size();i++)
 		{
 			int t = target - nums.at(i);
 			if (map.count(t) && map[t] != i)
