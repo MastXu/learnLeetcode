@@ -1,9 +1,7 @@
 ##ignore this file##
 /.vs/
-/Debug/
-/x64/
-/LearnLeetcode/Debug/
-/LearnLeetcode/x64/
+Debug/
+x64/
 *.sln
 *.vcxproj
 *.filters
