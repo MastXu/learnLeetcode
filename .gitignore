@@ -1,5 +1,7 @@
 ##ignore this file##
 /.vs/
+/Debug/
+/x64/
 *.sln
 *.vcxproj
 *.vcxproj.filters
